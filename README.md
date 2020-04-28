@@ -9,4 +9,4 @@ Created as a two player game where each player is a separate client and the game
 
 <h2><strong>Application GUI:</strong></h2> 
 
-<image src="Images/connection-screen.PNG" width="400" height="600"/>    <image src="Images/exit-screen.PNG" width="400" height="600"/>
+<image src="Images/connection-screen.PNG" width="275" height="300"/>    <image src="Images/exit-screen.PNG" width="300" height="400"/>
