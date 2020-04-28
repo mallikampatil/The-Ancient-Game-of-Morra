@@ -5,7 +5,7 @@ Morra is a hand game that dates back thousands of years. The rules are simple. I
 
 <h2><strong>Implementation Details:</strong></h2>
 
-Created as a player game where each player is a separate client and the game is run by a server. Your server and clients will use the same machine; with the server choosing a port on the local host and clients knowing the local host and port number (just as was demonstrated in class).Project created as a Maven project, GUI developed using JavaFX, and project tested using JUnit testing framework. 
+Created as a player game where each player is a separate client and the game is run by a server. Server and clients used the same machine for testing with the server choosing a port on the local host and clients knowing the local host and port number. Project created as a Maven project, GUI developed using JavaFX, and project tested using JUnit testing framework. 
 
 <h2><strong>Application GUI:</strong></h2> 
 
